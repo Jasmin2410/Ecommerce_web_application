@@ -53,7 +53,7 @@ function App() {
         <NavLink to="/logo">Home</NavLink>
       </h1>
      <NavLinks>
-      <NavLink to="/">Vegitables</NavLink>
+      <NavLink to="/">Vegetables</NavLink>
        <NavLink to="/products">Products</NavLink>
   
        
