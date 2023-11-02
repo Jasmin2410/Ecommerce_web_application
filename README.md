@@ -2,12 +2,9 @@
 
 
  
- The **Ecommerce_web_application** is a application of vegitables and flowers. In this application we can search, filter and sort the products and its prices.
+ The **Ecommerce_web_application** is an application of vegetables and flowers. In this application, we can search, filter, and sort the products and their prices.
 
-The application will be used by the **two** categories of users:
 
-- **Admin (Administrator)**
-- **User (Consumer)** 
 
 ## Tech Stack
 
@@ -16,13 +13,13 @@ The application will be used by the **two** categories of users:
   
 ## System Structure
 
-The platform allows a users to browse the information related to the products.
+The platform allows users to browse the information related to the products.
 
 ## Functionalities
 
 - Filtering Products among Category By Searching among (USA, Organic, Fresho, Gopalan Organic..)
-- Sorting Among Price Low To High Or High to Low
-- pagination in procusts page
+- Sorting Among prices from Low To High Or High to Low
+- pagination on the products page
 
 
 ## See Live Project
@@ -33,25 +30,25 @@ https://application-psi-liard.vercel.app/logo
 
 ```
 Click On This Link To See Filtering && Sorting
-```Vegitables
+```Vegetables
 https://application-psi-liard.vercel.app/
 ```
 
 Click On This Link To See  Pagination
 
-```Products
+``` Products
 https://application-psi-liard.vercel.app/products
 ```
 
 ## Contributions
 
-Contributions are always **Welcome** !
+Contributions are always **Welcome**!
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **Greatly Appreciated**.
+Contributions are what makes the open-source community such a fantastic place to learn, inspire, and create. Any contributions you make are **Greatly Appreciated**.
 
-If you have a suggestion that would make this application better, Please fork the repo and create a pull request. You can also connect with me for further development of this application !
+If you have a suggestion that would make this application better, Please fork the repo and create a pull request. You can also reach out to me for further development of this application!
 
-Don't forget to give the project a star ! Thank You !
+Don't forget to give the project a star! Thank You!
 
 ## 🔗 Contact Me
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Jasmin2410/Jasmin2410.github.io)
